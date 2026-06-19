@@ -121,7 +121,7 @@ form {
     }
 }
 
-@media screen and(max-width: 550px) {
+@media screen and (max-width: 550px) {
     html{
         font-size: 88%;
     }
@@ -131,13 +131,13 @@ form {
     }
 }
 
-@media screen and(max-width: 395px) {
+@media screen and (max-width: 395px) {
     html{
         font-size: 80%;
     }
 }
 
-@media screen and(max-width: 380px) {
+@media screen and (max-width: 380px) {
     html{
         font-size: 70%;
     }
